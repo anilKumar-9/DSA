@@ -56,7 +56,7 @@
    [1 4 0 7 8 9]
 9. Diagonals:
    Left Diagonal: 1 0 9
-   Right Diagonal: 3 0 7
+   Right Diagonal: [3 0 7]
 
 10. Boundary Elements:
     [1 2 3 6 9 8 7 4]
