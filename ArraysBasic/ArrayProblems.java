@@ -1,4 +1,4 @@
-package com.anil.DSA.Arrays;
+package com.anil.DSA.ArraysBasic;
 
 import java.util.*;
 

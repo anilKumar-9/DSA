@@ -1,4 +1,4 @@
-package com.anil.DSA.Matrix;
+package com.anil.DSA.MatrixBasic;
 import java.util.*;
 
 public class MatrixProblems {
